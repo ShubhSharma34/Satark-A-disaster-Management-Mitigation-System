@@ -1,4 +1,4 @@
-# Satark: AI-Powered Disaster Detection and Alert System
+# Satark: A Disaster Detection & Mitigation System
 
 ## Overview
 
