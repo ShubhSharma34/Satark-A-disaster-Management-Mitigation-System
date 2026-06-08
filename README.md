@@ -61,7 +61,7 @@ The model was trained on a curated disaster image dataset containing images from
 
 ### Home Page
 
-![Home Page](images/homepage.png)
+![Home Page](homepage1 (1).png)
 
 ### Disaster Detection Result
 
