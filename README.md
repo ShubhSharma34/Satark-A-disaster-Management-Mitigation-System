@@ -57,23 +57,6 @@ The model was trained on a curated disaster image dataset containing images from
 5. Alert Generation
 6. Result Visualization
 
-## Screenshots
-
-### Home Page
-
-![Home Page](homepage1 (1).png)
-
-### Disaster Detection Result
-
-![Result](images/result.png)
-
-### Alert Generation
-
-![Alert](images/alert.png)
-
-### Dashboard
-
-![Dashboard](images/dashboard.png)
 
 ## Future Improvements
 
