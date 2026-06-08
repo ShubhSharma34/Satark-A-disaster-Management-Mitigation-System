@@ -1,0 +1,14 @@
+version: "3.8"
+
+services:
+  disaster-web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: disaster-mitigation-system
+    ports:
+      - "5000:7860"
+    environment:
+      - PORT=7860
+      - PYTHONUNBUFFERED=1
+    restart: unless-stopped
